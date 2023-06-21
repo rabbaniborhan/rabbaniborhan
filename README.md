@@ -1,4 +1,5 @@
 ## Hi, I'm Borhan Rabbani 👋
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rabbaniborhan)  
 
 <p>
 👑 I am Web Developer <br> 
@@ -24,12 +25,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 - 💬 Ask me about web development
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rabbaniborhan)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbaniborhan)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/rabbaniborhan)  
 
 
 
