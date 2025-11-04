@@ -1,28 +1,50 @@
-## Hi, I'm Borhan Rabbani 👋
-<p>
-👑 I am Web Developer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
+# Hey there, I'm Borhan Rabbani 👋
+
+💻 **Web Developer | MERN Stack Enthusiast | Problem Solver**  
+🎯 Building fast, responsive, and error-free websites  
+📚 Sharing knowledge and learning every single day  
+
+---
 
 ## 🚀 About Me
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with fontend developer me technologies I enjoy working with include ReactJS, JavaScript as well . 
+I’m a passionate **Front-End & MERN Stack Developer** focused on creating user-friendly, performant web applications.  
+I love solving real-world problems with clean code and innovative solutions. Over the years, I’ve helped clients bring their ideas to life with **100+ successful projects**.  
 
-## 👨‍💻 Skills & Experiance: 
-✅ JavaScript <br>
-✅ React js <br>
-✅ MongoDb / node js / express js / firebase <br>
-✅ HTML5 / CSS3 / tailwind / Bootstrap <br>
-✅ Ms Word / Ms Excell <br>
+I thrive in a **learning-first environment**, constantly exploring new technologies and best practices.  
 
-- 🌱 I’m currently learning Javascript, mongoDb, and SASS 
-- 👯 I’m looking to collaborate on GitHub  
-- 💬 Ask me about web development
+---
 
+## 🛠️ Skills & Tools
 
+**Languages & Frameworks:**  
+- JavaScript (ES6+)  
+- React.js / Next.js  
+- Node.js / Express.js / MongoDB / Firebase  
+- HTML5 / CSS3 / Tailwind / Bootstrap  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbaniborhan)](https://github.com/anuraghazra/github-readme-stats)
+**Other Tools:**  
+- Git & GitHub  
+- MS Word / Excel  
 
+**Currently Learning:**  
+- Advanced JavaScript, SASS, MongoDB  
 
+---
 
-## ☕ Connect with me!
-[<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://www.facebook.com/valobasaamar.valobasa.77)  [<img src='https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465' alt='instagram' height='40'>](https://www.instagram.com/brborhan70/)    [<img src='https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465' alt='github' height='40'>](https://github.com/rabbaniborhan) 
+## 🌟 What I’m Doing
+- Collaborating on open-source projects  
+- Building innovative web applications  
+- Sharing tips, tutorials, and code snippets  
+
+---
+
+## 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbaniborhan&layout=compact&theme=tokyonight)](https://github.com/rabbaniborhan)
+
+---
+
+## ☕ Connect with Me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/brborhan70) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brborhan70/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabbaniborhan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabbaniborhan76/)
